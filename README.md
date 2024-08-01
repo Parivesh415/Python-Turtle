@@ -3,4 +3,4 @@
 1.Rainbow 
 Creating a Rainbow Using Python in built function i.e Turtle
 <br>
-<img src = "Images/Rainbow.png">
+<img src = "Images/rainbow.jpg">
